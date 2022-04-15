@@ -23,8 +23,8 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 #===========================================- Vars -==========================================#
 
 body = {
-    "client_id": "kqgfo2m1ntckmw5lu9ruq2d7qjnf1y",
-    "client_secret": "x85ce9uncqa3ih4prlls189vga79k0",
+    "client_id": "x",
+    "client_secret": "x",
     "grant_type": "client_credentials"
 }
 
